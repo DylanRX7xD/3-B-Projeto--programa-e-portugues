@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-weight: 400;
+}
+
+:root {
+--rich-black: #03071eff;
+--chocolate-cosmos: #370617ff;
+--rosewood: #6a040fff;
+--penn-red: #9d0208ff;
+--engineering-orange: #d00000ff;
+--sinopia: #dc2f02ff;
+--persimmon: #e85d04ff;
+--princeton-orange: #f48c06ff;
+--orange-web: #faa307ff;
+--selective-yellow: #ffba08ff;
+--fonte-texto:"Montserrat", sans-serif;
+
+}
+
