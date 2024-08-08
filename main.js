@@ -5,7 +5,7 @@ const caixaResultado = document.querySelector('.caixa-resultado');
 const textoResultado =document.querySelector('.texto-resultado');
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Racismo e discriminação social são temas e questões que no decorrer do tempo vem afetando milhões de pessoas ao redor do mundo",
         alternativas: [
             {
                 texto:"Alternativa 1",
