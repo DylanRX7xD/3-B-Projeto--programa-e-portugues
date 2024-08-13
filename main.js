@@ -5,16 +5,16 @@ const caixaResultado = document.querySelector('.caixa-resultado');
 const textoResultado =document.querySelector('.texto-resultado');
 const perguntas = [
     {
-        enunciado: "Racismo e discriminação social são temas e questões que no decorrer do tempo vem afetando milhões de pessoas ao redor do mundo",
+        enunciado: "Jõao no decorrer do dia conta sobre Racismo e discriminação social são temas e questões que no decorrer do tempo vem afetando milhões de pessoas ao redor do mundo, desde seu ponto de vista como isso afeta e como podemos prevenir ou ajudar?",
         alternativas: [
             {
-                texto:"Alternativa 1",
-                afirmacao:"Resultado 1"
+                texto:"A falta de educação e consciencia sobre tal perpetua essas divisões e gerando mais conflitos.",
+                afirmacao:"A falta de educação e consciencia sobre tal perpetua essas divisões e gerando mais conflitos. "
             },
             
             {
-                texto:"Alternativa 2",
-                afirmacao:"Resultado 2 "
+                texto:"No decorrer do tempo vem afetando a vida social, atitudes, e comportamentos, saber valorizar e ajudar aqueles que sofrem injustiças são algumas das coisas que podemos fazer para ajudar.",
+                afirmacao:"No decorrer do tempo vem afetando a vida social, atitudes, e comportamentos, saber valorizar e ajudar aqueles que sofrem injustiças são algumas das coisas que podemos fazer para ajudar. "
             }
 
             
@@ -22,16 +22,16 @@ const perguntas = [
     },
 
     {
-        enunciado: "Pergunta 2 ",
+        enunciado: "Sendo assim, somos seres humanos e ainda assim porque tratariamos uns aos outros diferentes pela cor da pele? ",
         alternativas: [
             {
-                texto: "Alternativa 1 ",
-                afirmacao:"Resultado 3 "
+                texto: "Foram construidas atitudes e comportamentos que geram preconceitos raciais gerando conflitos e muitos problemas ",
+                afirmacao:" Foram construidas atitudes e comportamentos que geram preconceitos raciais gerando conflitos e muitos problemas "
             },
 
             {
-                texto: "Alternativa 2",
-                afirmacao: "Resultado 4"
+                texto: "Praticamente foram criadas barreiras significativas que influenciam aqueles pessoas que procuram se relacionar, procurar ajuda e aqueles que são o contrario.",
+                afirmacao: "Praticamente foram criadas barreiras significativas que influenciam aqueles pessoas que procuram se relacionar, procurar ajuda e aqueles que são o contrario."
             }
             
         
