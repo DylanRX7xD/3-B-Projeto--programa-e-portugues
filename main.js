@@ -5,7 +5,7 @@ const caixaResultado = document.querySelector('.caixa-resultado');
 const textoResultado =document.querySelector('.texto-resultado');
 const perguntas = [
     {
-        enunciado: "Jõao no decorrer do dia conta sobre Racismo e discriminação social são temas e questões que no decorrer do tempo vem afetando milhões de pessoas ao redor do mundo, desde seu ponto de vista como isso afeta e como podemos prevenir ou ajudar?",
+        enunciado: "Jõao no decorrer do dia conta sobre Racismo e discriminação social sendo temas e questões que no decorrer do tempo vem afetando milhões de pessoas ao redor do mundo, desde seu ponto de vista como isso afeta e como podemos prevenir ou ajudar?",
         alternativas: [
             {
                 texto:"A falta de educação e consciencia sobre tal perpetua essas divisões e gerando mais conflitos.",
@@ -39,10 +39,10 @@ const perguntas = [
     },
 
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Ainda pessoas lutam para alcançar uma posição de igualdade, o que podemos dizer a respeito sobre?",
         alternativas: [
             {
-                texto: "Alternativa 1 ",
+                texto: "Conseguimos dizer que não teriamos problema, ja que com o tempo as desigualdades se resolverão. ",
                 afirmacao: "Resultado 5"
             },
 
