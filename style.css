@@ -22,7 +22,7 @@
 }
 
 body{
-    background-color: var(--verde-escuro);
+    background-color: var(--rich-black);
     color: var(--platina);
     display: flex;
     justify-content: center;
